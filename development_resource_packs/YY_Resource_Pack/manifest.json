@@ -1,18 +1,18 @@
 {
     "format_version": 2,
     "header": {
-      "description": "YY Resource Pack",
-      "name": "YY Resource Pack",
-      "uuid": "9479be89-acd4-46e1-ae97-a1a7ecd00323",
-      "version": [1, 0, 0],
-      "min_engine_version": [1, 16, 0]
+        "description": "YY Resource Pack",
+        "name": "YY Resource Pack",
+        "uuid": "9479be89-acd4-46e1-ae97-a1a7ecd00323",
+        "version": [ 0, 0, 1 ],
+        "min_engine_version": [ 1, 16, 200 ]
     },
     "modules": [
-      {
-        "description": "YY Resource Pack",
-        "type": "resources",
-        "uuid": "ea6c400a-5eae-11eb-979b-1bf319513c5c",
-        "version": [1, 0, 0]
-      }
+        {
+            "description": "YY Resource Pack",
+            "type": "resources",
+            "uuid": "ea6c400a-5eae-11eb-979b-1bf319513c5c",
+            "version": [ 0, 0, 1 ]
+        }
     ]
-  }
+}

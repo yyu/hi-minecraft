@@ -1,24 +1,24 @@
 {
     "format_version": 2,
     "header": {
-        "description": "Example vanilla behavior pack",
-        "name": "Vanilla Behavior Pack",
-        "uuid": "ee649bcf-256c-4013-9068-6a802b89d756",
+        "description": "YY behavior pack",
+        "name": "YY Behavior Pack",
+        "uuid": "79554890-5ec1-11eb-b61d-172fbef283b5",
         "version": [ 0, 0, 1 ],
         "min_engine_version": [ 1, 16, 200 ]
     },
     "modules": [
         {
-            "description": "Example vanilla behavior pack",
+            "description": "YY behavior pack",
             "type": "data",
-            "uuid": "fa6e90c8-c925-460f-8155-c8a60b753caa",
-            "version": [0, 0, 1]
+            "uuid": "8231f6fc-5ec1-11eb-8d5d-8f6f7fc9469c",
+            "version": [ 0, 0, 1 ]
         }
     ],
     "dependencies": [
         {
-            "uuid": "66c6e9a8-3093-462a-9c36-dbb052165822",
-            "version": [0, 0, 1]
+            "uuid": "9479be89-acd4-46e1-ae97-a1a7ecd00323",
+            "version": [ 0, 0, 1 ]
         }
     ]
 }
