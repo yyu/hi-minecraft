@@ -2600,11 +2600,7 @@
    },
    "wool" : {
       "sound" : "cloth",
-      "textures" : {
-         "down" : "wool_bottom",
-         "side" : "wool_side",
-         "up" : "wool_top"
-      }
+      "textures" : "wool"
    },
    "yellow_flower" : {
       "sound" : "grass",

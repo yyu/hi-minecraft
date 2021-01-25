@@ -2728,27 +2728,7 @@
       "wood_spruce" : {
          "textures" : "textures/blocks/planks_spruce"
       },
-      "wool_top" : {
-         "textures" : [
-            "textures/blocks/wool_colored_top",
-            "textures/blocks/wool_colored_top",
-            "textures/blocks/wool_colored_top",
-            "textures/blocks/wool_colored_top",
-            "textures/blocks/wool_colored_top",
-            "textures/blocks/wool_colored_top",
-            "textures/blocks/wool_colored_top",
-            "textures/blocks/wool_colored_top",
-            "textures/blocks/wool_colored_top",
-            "textures/blocks/wool_colored_top",
-            "textures/blocks/wool_colored_top",
-            "textures/blocks/wool_colored_top",
-            "textures/blocks/wool_colored_top",
-            "textures/blocks/wool_colored_top",
-            "textures/blocks/wool_colored_top",
-            "textures/blocks/wool_colored_top"
-         ]
-      },
-      "wool_side" : {
+      "wool" : {
          "textures" : [
             "textures/blocks/wool_colored_white",
             "textures/blocks/wool_colored_orange",
@@ -2765,27 +2745,7 @@
             "textures/blocks/wool_colored_brown",
             "textures/blocks/wool_colored_green",
             "textures/blocks/wool_colored_red",
-            "textures/blocks/wool_colored_black_side"
-         ]
-      },
-      "wool_bottom" : {
-         "textures" : [
-            "textures/blocks/wool_colored_bottom",
-            "textures/blocks/wool_colored_bottom",
-            "textures/blocks/wool_colored_bottom",
-            "textures/blocks/wool_colored_bottom",
-            "textures/blocks/wool_colored_bottom",
-            "textures/blocks/wool_colored_bottom",
-            "textures/blocks/wool_colored_bottom",
-            "textures/blocks/wool_colored_bottom",
-            "textures/blocks/wool_colored_bottom",
-            "textures/blocks/wool_colored_bottom",
-            "textures/blocks/wool_colored_bottom",
-            "textures/blocks/wool_colored_bottom",
-            "textures/blocks/wool_colored_bottom",
-            "textures/blocks/wool_colored_bottom",
-            "textures/blocks/wool_colored_bottom",
-            "textures/blocks/wool_colored_bottom"
+            "textures/blocks/wool_colored_black"
          ]
       },
       "yellow_flower" : {
